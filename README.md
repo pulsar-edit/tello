@@ -1,3 +1,5 @@
+# This repo is deprecated! Pulsar Edit will be moving to JSDoc to document the code
+
 # Tello: A Donna metadata digest
 
 Converts [metadata][metadata] from [donna][donna] to an intermediate doc format
